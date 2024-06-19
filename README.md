@@ -1,6 +1,8 @@
 # Gro-test
 iOS app for University Organisation Matters
 
+Original at GitLab: https://gitlab.com/BWN133/Gro-test
+
 Functionalities:
 - Organisation name search explore page, calendar view, contact orgs by email...
 
